@@ -85,7 +85,7 @@ Build and upload the code to your ESP32.
 
  Team Members
  
-[Shahd Walid] - Role ( Hardware & Firmware Lead)
+[Shahd Waleed] - Role ( Hardware & Firmware Lead)
 
 [Asmaa Abdullah] - Role (Flutter UI Developer)
 
